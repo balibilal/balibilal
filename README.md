@@ -1,4 +1,4 @@
-<img src="github-banner.jpg" width="100%"/>
+<img src="git-banner.jpg" width="100%"/>
 
 🚀 **Passionate Fullstack Web Developer**  
 Creating robust and scalable applications, skilled in both front-end and back-end technologies with a strong focus on performance and user experience.
