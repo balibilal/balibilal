@@ -1,22 +1,15 @@
 <img src="github-banner.jpg" width="100%"/>
 
-
-
-# 👋 Hi, my name is Bilal Naqvi
----
-
 🚀 **Passionate Fullstack Web Developer**  
 Creating robust and scalable applications, skilled in both front-end and back-end technologies with a strong focus on performance and user experience.
 
----
 
 ## ⚡ Rapid Fire
-- 💼 Currently working on **SharePoint Web Parts**
-- 📚 Learning **React Native** & **Google Cloud**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- 💬 Ask me about:  **JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- 💼 Currently working on:   **Working on SharePoint Web Parts**
+- 📚 Learning:  **React Native** & **Google Cloud**
 - ⚡ Fun fact: _I once debugged an issue while on a roller coaster!_
-- 🌐 [Portfolio](https://bilalnaqvi.info)
-- 📝 [YouTube @SuperCodepk](https://www.youtube.com/@SuperCodepk)
+- 📂 My Products: [myroducts.com](https://businexcloud.com/)
 
 ---
 
