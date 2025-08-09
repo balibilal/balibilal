@@ -1,4 +1,4 @@
-<img src="RAW_IMAGE_URL" width="100%"/>
+<img src="github-banner.jpg" width="100%"/>
 
 
 
