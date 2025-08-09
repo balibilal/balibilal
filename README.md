@@ -5,7 +5,7 @@ Creating robust and scalable applications, skilled in both front-end and back-en
 
 
 ## ⚡ Rapid Fire
-- 💬 Ask me about:  **JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- 💬 Ask me about:  **Bootstrap, JavaScript, React, Node.js, MongoDB, and RESTful APIs**
 - 💼 Currently working on:   **Working on SharePoint Web Parts**
 - 📚 Learning:  **React Native** & **Google Cloud**
 - ⚡ Fun fact: _I once debugged an issue while on a roller coaster!_
